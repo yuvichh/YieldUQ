@@ -79,7 +79,7 @@ Traditional machine learning models treat molecules as fixed-length vectors, los
 
 ```bash
 # Clone the repository
-git clone https://github.com/Yuvraj-cyborg/YieldUQ.git
+git clone https://github.com/yuvichh/YieldUQ.git
 cd YieldUQ-GNN
 
 # Install dependencies (Python 3.13+)
@@ -220,7 +220,7 @@ MIT License - see LICENSE file for details
 
 ## 👥 Authors
 
-**Yuvraj Biswal** - [@Yuvraj-cyborg](https://github.com/Yuvraj-cyborg)
+**Yuvraj Biswal** - [@yuvichh](https://github.com/yuvichh)
 
 ---
 
@@ -237,6 +237,6 @@ This project builds upon foundational work in:
 
 **Built with ❤️ for the chemical ML community**
 
-[Report Bug](https://github.com/Yuvraj-cyborg/YieldUQ/issues) · [Request Feature](https://github.com/Yuvraj-cyborg/YieldUQ/issues)
+[Report Bug](https://github.com/yuvichh/YieldUQ/issues) · [Request Feature](https://github.com/yuvichh/YieldUQ/issues)
 
 </div>
